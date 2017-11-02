@@ -8,13 +8,11 @@
             <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5">
                 <h1 class="mb-3 bd-text-purple-bright">Factu Electrónica</h1>
                 <p class="lead">
-                    Build responsive, mobile-first projects on the web with the world's most popular front-end component
-                    library.
+                    Genera con rapidez Facturas, Boletas, Notas de credito, Notas de debito y Guias de resimision Electrónicas.
                 </p>
                 <p class="lead mb-4">
-                    Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your
-                    ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive
-                    prebuilt components, and powerful plugins built on jQuery.
+                    Servicio autorizado por la SUNAT para emitir documentos electrónicos,
+                    trabajamos con desarrolladores de software, empresas y personas que necesitan ahorrar tiempo y recursos.
                 </p>
                 <div class="d-flex flex-column flex-md-row lead mb-3">
                     <a href="#" class="btn btn-lg btn-bd-purple mb-3 mb-md-0 mr-md-3" >¿Qué es.. ?</a>

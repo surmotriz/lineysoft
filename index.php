@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-6 mx-auto col-md-6 order-md-2">
-                <img class="img-fluid mb-3 mb-md-0" src="assets/img/dashboard-img-3.png" alt="" width="800" height="860">
+                <img class="img-fluid mb-3 mb-md-0" src="./assets/img/dashboard-img-3.png" alt="" width="800" height="860">
             </div>
             <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5">
                 <h1 class="mb-3 bd-text-purple-bright">Factu Electrónica</h1>
@@ -15,7 +15,7 @@
                     trabajamos con desarrolladores de software, empresas y personas que necesitan ahorrar tiempo y recursos.
                 </p>
                 <div class="d-flex flex-column flex-md-row lead mb-3">
-                    <a href="#" class="btn btn-lg btn-bd-purple mb-3 mb-md-0 mr-md-3" >¿Qué es.. ?</a>
+                    <a href="blog/que-es-facturacion-electronica.php" class="btn btn-lg btn-bd-purple mb-3 mb-md-0 mr-md-3" >¿Qué es.. ?</a>
                     <a href="#" class="btn btn-lg btn-outline-secondary" >Probar Demo</a>
                 </div>
                 <p class="text-muted mb-0">

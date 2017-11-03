@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Factura Electronica Peru Sunat &middot; Lineysoft</title>
     <!-- Bootstrap core CSS -->
-    <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <!-- Documentation extras -->
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="../assets/css/style.css" rel="stylesheet">
 </head>
 <body>
 <a id="skippy" class="sr-only sr-only-focusable" href="#content">
@@ -16,11 +16,11 @@
     </div>
 </a>
 <header class="navbar navbar-expand navbar-dark flex-column flex-md-row bd-navbar">
-    <a class="navbar-brand mr-0 mr-md-2" style="font-size: 140%;" href="#">LineySoft</a>
+    <a class="navbar-brand mr-0 mr-md-2" style="font-size: 140%;" href="/">LineySoft</a>
     <div class="navbar-nav-scroll">
         <ul class="navbar-nav bd-navbar-nav flex-row">
             <li class="nav-item">
-                <a class="nav-link " href="#" >Soluciones</a>
+                <a class="nav-link " href="/soluciones" >Soluciones</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link " href="#">Integracion</a>
